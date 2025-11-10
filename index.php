@@ -1,1 +1,5 @@
-"<?php echo 'hello Git!; from ?>" 
+"<?php
+ echo 'hello Git!; from';
+ echo 'ahmed ghnam merge'; 
+ 
+ ?> 
