@@ -1,5 +1,5 @@
 "<?php
- echo 'hello Git!; from';
- echo 'ahmed ghnam merge'; 
+ echo 'hello Git!; fromsss';
+ echo 'ahmed ghnam mergerrr'; 
  
  ?> 
